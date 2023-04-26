@@ -45,7 +45,7 @@
 
 </section>
 <div class="copyright text-center py-3">
-    <p class="mt-2">Copyright &copy;2022 All rights reserved | This template is made by Micrologix</p>
+    <p class="mt-2">Copyright &copy;2022 All rights reserved | This template is made by Faizi040</p>
     </div>
 
 
